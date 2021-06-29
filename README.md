@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shrutikmhatre
 - 👀 I’m interested in ...Learning new Technologies, Problem solving
 - 🌱 I’m currently learning ...JavaScript
-- 💞️ I’m looking to collaborate on ...WebDevploment
+- 💞️ I’m looking to collaborate on ...Web Development
 - 📫 How to reach me ...[Gmail ID] shrutikmhatre25@gmail.com
 
 <!---
